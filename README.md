@@ -14,6 +14,8 @@ After familiarizing myself with the RP2040, I came across with this DIY Gameboy 
 
 # Designs
 ![schemtatic](assets/schematic.svg)
+![pcb_front](assets/Game_boy-B_Cu.svg)
+![pcb_back](assets/Game_boy-F_Cu.svg)
 ![pcb_design](assets/pcb.png)
 ![3d_model_front](assets/3d_model_front.png)
 ![3d_model_back](assets/3d_model_back.png)
