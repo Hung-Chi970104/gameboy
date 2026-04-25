@@ -1,6 +1,6 @@
 # Pico Gameboy
 After familiarizing myself with the RP2040, I came across with this DIY Gameboy video made of Raspberry Pi Pico and inspired me to build my own version!
-![demo](assets/demo_video.mp4)
+<video src="assets/demo_video.mp4" controls="controls" width="600"></video>
 
 # Features
 - Full Gameboy experience
