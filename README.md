@@ -1,8 +1,9 @@
 # Pico Gameboy
 I came across with this DIY Gameboy video made of Raspberry Pi Pico and inspired me to build my own version. The fact that RP2040 has dual-core ARM Cortex-M0+ processor makes it capable of running some light emulators. So I’ll build a little handheld game console using RP2040 that can run gameboy!
-
+### Kirby's Dream Land 2 (My favorite)
 https://github.com/user-attachments/assets/909a369a-9677-4903-9628-0e65bedbe7ed
 
+### Tetris (My friend getting unemployed LMAO)
 https://github.com/user-attachments/assets/1b85eab4-04bd-4f8f-a2d0-78ee750a4273
 
 
