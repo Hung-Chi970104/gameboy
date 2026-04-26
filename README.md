@@ -22,10 +22,15 @@ https://github.com/user-attachments/assets/909a369a-9677-4903-9628-0e65bedbe7ed
 - HASL (with lead) surface finish
 - 1oz outer copper weight
 
+## PCB Schematic
 ![schemtatic](assets/schematic.svg)
+
+## PCB Layouts
 ![pcb_front](assets/Game_boy-B_Cu.svg)
 ![pcb_back](assets/Game_boy-F_Cu.svg)
 ![pcb_design](assets/pcb.png)
+
+## 3D Model
 ![3d_model_front](assets/3d_model_front.png)
 ![3d_model_back](assets/3d_model_back.png)
 
