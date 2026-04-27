@@ -3,7 +3,7 @@ I came across with this DIY Gameboy video made of Raspberry Pi Pico and inspired
 ### Kirby's Dream Land 2 (My favorite)
 https://github.com/user-attachments/assets/909a369a-9677-4903-9628-0e65bedbe7ed
 
-### Tetris (My friend getting unemployed LMAO)
+### Tetris (my unemployed friend LMAO)
 https://github.com/user-attachments/assets/1b85eab4-04bd-4f8f-a2d0-78ee750a4273
 
 
